@@ -105,11 +105,13 @@ pip install opencv-python numpy
 
 ---
 
-## 👨‍💻 Developed By
-
-**Jagdish Lamba**  
+## 🧾 License
+Developed by Jagdish Lamba  
+For research and training purposes.
+Feel free to use it.
 
 ---
 
-## 📄 License
-Feel free to use, modify this tool
+## 🙌 Credits
+
+Special thanks to all open-source contributors, and to the Machine Learning community.
